@@ -6,9 +6,9 @@ The training code is run in Python 3.8.1 environment and use CUDA 11.2 and cuDNN
 
 # Additional Links
 As for the link to the thesis can be accessed through this google drive link: https://docs.google.com/document/d/15_weDW7YRxqqWNYI934LU81IgoNB_el9/edit?usp=sharing&ouid=109370577966711764027&rtpof=true&sd=true <br />
-Link to dataset the is used in this project -> https://www.kaggle.com/competitions/paddy-disease-classification/data <br />
-Link to the android app -> https://github.com/ProjectRips/padex-android-app.git <br />
-Link to the website -> https://github.com/ProjectRips/paddydiseaseclassifyapp.git <br />
+Link to dataset the is used in this project: https://www.kaggle.com/competitions/paddy-disease-classification/data <br />
+Link to the android app: https://github.com/ProjectRips/padex-android-app.git <br />
+Link to the website: https://github.com/ProjectRips/paddydiseaseclassifyapp.git <br />
 
 
 # Result
